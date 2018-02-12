@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">spinner</string>
+    <string-array name="names">
+       <item>select item</item>
+        <item>Jaipur</item>
+        <item>Ajmer</item>
+        <item>kota</item>
+        <item>Udaipur</item>
+        <item>Other</item>
+    </string-array>
+</resources>
